@@ -125,9 +125,6 @@ CSRF_TRUSTED_ORIGINS=[
 
 ALLOWED_HOSTS=[
     "*",
-    "https://siphonophorous-tamatha-prehistoric.ngrok-free.dev",
-    "https://shokarsite.netlify.app",
-    "https://ffpngvbd-5173.inc1.devtunnels.ms",
 ]
 
 REST_FRAMEWORK = {
