@@ -1,0 +1,3 @@
+Celery Worker : celery -A Backend worker --pool=solo --loglevel=INFO
+Clery Beat :  celery -A Backend beat -l info 
+
