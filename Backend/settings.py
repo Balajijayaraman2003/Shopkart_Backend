@@ -119,6 +119,7 @@ CORS_ALLOWED_ORIGINS = [
 CORS_ALLOW_CREDENTIALS = True
 
 CSRF_TRUSTED_ORIGINS=[
+    "https://*.vercel.app",
     "https://siphonophorous-tamatha-prehistoric.ngrok-free.dev",
     "https://ffpngvbd-5173.inc1.devtunnels.ms",
 ]
